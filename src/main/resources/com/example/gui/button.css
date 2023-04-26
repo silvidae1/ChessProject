@@ -1,0 +1,20 @@
+.button {
+    -fx-background-color:#e4d4c1;
+        -fx-font-family:courier_new;
+        -fx-text-fill:Black;
+        -fx-border-color: Wheat;
+    -fx-border-radius: 5;
+        -fx-font-size:16;
+}
+
+.button:hover{
+    -fx-background-color:#f1be88;
+            -fx-font-family:courier_new;
+            -fx-text-fill:Black;
+            -fx-border-color: Wheat;
+        -fx-border-radius: 5;
+            -fx-font-size:16;
+}
+#buttonLabel{
+
+}
